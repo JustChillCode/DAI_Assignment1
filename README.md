@@ -1,0 +1,2 @@
+This Exploratory Data Analysis Analyses a Laptop Dataset.
+Description: This dataset contains information about various laptops available in the market. The data was collected by scraping information from an e-commerce website. The dataset includes features such as the model name, brand, processor name, RAM, SSD, hard disk size, operating system, graphics card, screen size, resolution, number of cores, number of threads, and a spec score. The price of each laptop is also included in the dataset.
